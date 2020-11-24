@@ -127,7 +127,7 @@
           &copy;
           <script>
             document.write(new Date().getFullYear())
-          </script>, Desarrollado por Gabriel Antonio con plantilla <i class="material-icons">favorite</i> by
+          </script>, Desarrollado por Equipo ISIC Septimo Semestre 2020 con plantilla <i class="material-icons">favorite</i> by
           <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
         </div>
         

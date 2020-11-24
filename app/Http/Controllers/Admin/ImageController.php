@@ -31,7 +31,7 @@ class ImageController extends Controller
             $productImage               = new ProductImage();
             $productImage->url          = $filename;
             $productImage->product_id   = $id;
-            $productImage->save();s
+            $productImage->save();
         }
         return back();
     }
