@@ -48,7 +48,7 @@
 
           <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Inicio</a></li>
           <li class="nav-item"><a class="nav-link" href="{{ url('/products') }}">Nuestros Productos</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ url('/categories') }}">Categorias </a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url('/products') }}">Categorias </a></li>
           <!-- Authentication Links -->
           @guest
             <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Iniciar Sesión</a></li>
@@ -127,8 +127,7 @@
           &copy;
           <script>
             document.write(new Date().getFullYear())
-          </script>, Desarrollado por Equipo ISIC Septimo Semestre 2020 con plantilla <i class="material-icons">favorite</i> by
-          <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+          </script>, Desarrollado por Equipo ISIC Septimo Semestre 2020 con plantilla 
         </div>
         
       </div>

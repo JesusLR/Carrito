@@ -28,12 +28,12 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="title">Bienvenido a Shopping Market! tu e-commerce desarrollado en laravel.</h1>
+          <h1 class="title">Bienvenido a Shopping Market! <br> Tu propia tienda en linea!.</h1>
           <h4>Realiza pedidos en linea y te contactaremos para coordinar la entrega</h4>
           <br>
-          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="btn btn-danger btn-raised btn-lg">
+          <!--<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="btn btn-danger btn-raised btn-lg">
             <i class="fa fa-play"></i> ¿Cómo funciona?
-          </a>
+          </a>-->
         </div>
       </div>
     </div>
